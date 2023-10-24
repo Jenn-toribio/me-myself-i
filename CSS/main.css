@@ -1,0 +1,42 @@
+body {
+  background-color:#FFF3DA
+  font-size: 17px;
+}
+
+button {
+  width:7rem;
+  border: solid;
+  border-radius: 2px;
+  padding: .75rem;
+  background-color:;
+  color: black;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color:#BEADFA;
+  color:#FFDBC3;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center
+}
+
+div {
+  width:100%;
+  height: auto;
+  padding: 0 10px;
+}
+
+#card {
+  text-align: center;
+  background-color: blanchedalmond;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
